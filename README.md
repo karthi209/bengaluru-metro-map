@@ -2,7 +2,7 @@
 
 Note: This is not an official map.
 
-The map includes Namma Metro lines that are operational on 9th October 2023.
+The map includes Namma Metro lines that are operational as of 9th October 2023.
 
 The JPEG and PDF file in this repo are of great quality, and the details of the map can be viewed by zooming in. But if the map is shared as JPEG in social media, it might lose quality due to compression, and the user won't be able to read it's content as intended. I suggest sharing this link or make sure to share as uncompressed files to make sure the content of the map is readable.
 
