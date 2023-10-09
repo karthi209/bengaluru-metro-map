@@ -1,4 +1,4 @@
-# bangaloreMetroMap
+## Bangalore Metro Map
 
 Note: This is not an official map.
 
